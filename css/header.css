@@ -42,6 +42,7 @@
   text-decoration: none;
   color: inherit;
   list-style-type: none;
+  font-style: normal;
 }
 .header-link-add:hover,
 .header-link-add:focus {
